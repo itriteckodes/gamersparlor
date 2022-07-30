@@ -1,0 +1,50 @@
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+const MAIN_COLOR = Color.fromARGB(255, 165, 225, 85);
+const GREY = Color.fromARGB(255, 132, 141, 160);
+const CARD_GREY = Color(4288651167);
+const BG_GREY = Color(4293191918);
+const INPUT_GREY = Color(4294177779);
+const Red = Color(4293803582);
+const Orange = Color.fromARGB(255, 214, 100, 56);
+
+const BUTTON_BG = Color(4289192425);
+const BUTTON_ICON = Color(4279840605);
+const SBUTTON_ICON = Color(4281813876);
+const BLUE = Color(4293112904);
+const BUTTON_BLUE = Color.fromARGB(255, 94, 139, 21);
+const BLUISH = Color(4293653240);
+const BLUISH_GREEN = Color(4279265621);
+const LBLUISH = Color(4289192425);
+const BLACK = Colors.black;
+const WHITE = Colors.white;
+const BLACKISH = Color.fromARGB(245, 218, 221, 224);
+const TITLE_BLACK = Color(4281940281);
+const SkyBlue = Color(4281513215);
+
+const PURPLE = Color.fromARGB(255, 166, 121, 239);
+const PURPLEAccent = Color.fromARGB(255, 200, 188, 218);
+const BROWNISH = Color(4293979110);
+const GREENISH = Color(4291488422);
+const GREEN = Color(4278234413);
+const BROWNISSH = Color.fromARGB(255, 141, 89, 37);
+
+const DARK_GREEN = Color(4282018613);
+const Blue_accent = Color(4293112904);
+const DARK_BG = Color(4279901988);
+const DARK_OUTLINE = Color(4284707459);
+const BLUISH_BUTTON = Color.fromARGB(246, 210, 83, 212);
+const DARK_PURPLE = Color(4284308116);
+const GB = Color(4282203453);
+const DG = Color(4283525431);
+const HINT_GREY = Color(4289835441);
+const SUBTITLE_GREY = Color(4286940549);
+const Plans_GREY = Color(4294177779);
+const MAIN_BLACK = Color(4279507743);
+const YELLOW = Color(4294947584);
+const FadeColor = Color(4289703855);
+const BTN_BG_LIGHT = Color(4287013360);
+const BTN_BG_DARK = Color(4284706530);
+const BTN_SHADOW = Color(4284113752);
+const LIGHT_GREEN = Color(4284597888);
